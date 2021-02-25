@@ -1,0 +1,4 @@
+C:\Users\orrso\source\repos\CustomMapDiscovery\CustomMapDiscovery\Package\plugins\CustomMapDiscovery\CustomMapDiscovery.dll
+C:\Users\orrso\source\repos\CustomMapDiscovery\CustomMapDiscovery\obj\Release\CustomMapDiscovery.csprojAssemblyReference.cache
+C:\Users\orrso\source\repos\CustomMapDiscovery\CustomMapDiscovery\obj\Release\CustomMapDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\orrso\source\repos\CustomMapDiscovery\CustomMapDiscovery\obj\Release\CustomMapDiscovery.dll
